@@ -159,7 +159,7 @@ body.page-template-page-fullsingle-me {
           justify-content: center;
   -webkit-animation: fadein 4s;
           animation: fadein 4s;
-  letter-spacing: -2px;
+  letter-spacing: -1px;
   text-align: center;
   margin-top: 65px;
   max-width: 100%; }
