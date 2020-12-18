@@ -163,12 +163,14 @@ body.page-template-page-fullsingle-me {
   text-align: center;
   margin-top: 65px;
   max-width: 100%; }
+  
   @media (max-width: 600px) {
     .name {
       max-width: none; } }
 	.name p.fullname {
 		font-size: 70px;
 		color: #CCD6F6;
+		word-wrap: unset;
 	}
 	
 .bio {
